@@ -93,10 +93,6 @@ To view the PowerBI file, you will need:
 
 This repository provides a comprehensive analysis of Amazon sales data, offering valuable insights into sales performance across various dimensions. The combination of static reports, presentations, and interactive dashboards ensures a thorough understanding of the data.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
